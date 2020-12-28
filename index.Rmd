@@ -6,7 +6,7 @@ author:
 - name: Xinru Wang
 output: 
   html_document:
-    theme: cerulean
+    theme: lumen
 ---
 
 </center>
